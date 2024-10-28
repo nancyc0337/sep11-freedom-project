@@ -91,6 +91,9 @@ POSITION: the x and y coordinates for the image
 
 KEY: the name of image defined when loaded
 
+My result of my tinkering:
+![alt text](image-3.png)
+
 ##### Next Step
 I will learn [Part 4 Moving Images](https://youtu.be/jVlNZgX5fV8?si=8DX8YCn0WSZ5xWjU).
 
