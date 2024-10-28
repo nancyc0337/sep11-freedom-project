@@ -6,7 +6,7 @@
 
 ### 10/20/2024: Setting Up & Scenes
 
-#### Setting Up
+#### Part 1: Setting Up
 Link to the video: [Part 1 Setting Up](https://youtu.be/frRWKxB9Hm0?si=TihtknpL4Fswe1w1)
 
 All About Phaser Notes:
@@ -34,7 +34,7 @@ Link to the Tinkering: https://github.com/nancyc0337/sep11-freedom-project/tree/
 I created an index.html file, copied and pasted the code in it. When I tested it with `http-server`, it shows:
 ![alt text](image-2.png)
 
-#### Scenes
+#### Part 2: Scenes
 
 Link to the Video: [Part 2 Phaser Scenes](https://youtu.be/gFXx7lgxK9A?si=AdQ-MX8mEFOlB-Ix)
 
@@ -61,11 +61,40 @@ Types of Functions that controlls the scenes:
 When I typed the code into the files scene1.js and scene2.js, and tried to switch scenes, the result didn't change. It just stayed as the 1st scene. After I watched the video again, I saw the problem. I didn't type `this.scene.start("playGame");` in scene1.js. I learned that this code helps the game jump from scene1 to scene2. Scene1 shows red background with white/transparent text saying "Loading game...". Scene 2 shows red background with "font: 25px, Arial" yellow text saying "Playing game".
 
 ##### Next Step
-I will learn [Part 3 Game Objects Images](https://youtu.be/l65rEEdgURA?si=spl8FgUaZ0yzJNWr) and [Part 4 Moving Images](https://youtu.be/jVlNZgX5fV8?si=55ciUt81aDvpwIQP).
+I will learn [Part 3 Game Objects Images](https://youtu.be/l65rEEdgURA?si=spl8FgUaZ0yzJNWr).
 
-### X/X/XX:
-* Text
+### 10/27/2024:
 
+#### Part 3: Game Objects Images
+
+Link to the Video: https://youtu.be/l65rEEdgURA?si=1GlWWAUG16tk_4MT
+
+Link to the Tinkering: https://github.com/nancyc0337/sep11-freedom-project/tree/main/tool/tinkering-2a
+
+I tried to use a different image/background from the video.
+
+The challenge that I had was uploading the background. At first I didn't see the background when I tried `http-server`. But after looking and tinkering with the codes, I see that the files game.js, scene1.js and scene2.js was the problem.
+
+I learned to pay attention to detail, especially to my codes or I will not see my output/result that I wanted.
+
+Notes/A-ha moment:
+
+* `this.load.image("key","url");`
+
+KEY: A string to identify the image
+
+URL: A string path to the image file
+
+* `this.add.image(0,0,"background");`
+
+POSITION: the x and y coordinates for the image
+
+KEY: the name of image defined when loaded
+
+##### Next Step
+I will learn [Part 4 Moving Images](https://youtu.be/jVlNZgX5fV8?si=8DX8YCn0WSZ5xWjU).
+
+### 00/00/00
 
 <!--
 * Links you used today (websites, videos, etc)
