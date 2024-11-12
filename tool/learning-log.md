@@ -95,9 +95,49 @@ My result of my tinkering:
 ![alt text](image-3.png)
 
 ##### Next Step
-I will learn [Part 4 Moving Images](https://youtu.be/jVlNZgX5fV8?si=8DX8YCn0WSZ5xWjU).
+I will learn [Part 4 Moving Images](https://youtu.be/jVlNZgX5fV8?si=8DX8YCn0WSZ5xWjU) and [Part 5 Spritesheets](https://youtu.be/U0K0YTifb1w?si=qKh0OpInCnVqsoFM).
 
-### 00/00/00
+### 11/11/2024
+
+#### Part 4: Moving Images
+
+Link to the video: [Part 4 Moving Images](https://youtu.be/jVlNZgX5fV8?si=8DX8YCn0WSZ5xWjU)
+
+Link to the Tinkering: https://github.com/nancyc0337/sep11-freedom-project/tree/main/tool/tinkering-3a
+
+Notes:
+* to move the sprite on the vertical axis, increase the Y value
+* we can move the sprite back to the top of the screen when it reaches the bottom of the screen
+![alt text](image-4.png)
+* to make the background scroll more appealing, change the image to TileSprite
+    * TileSprite is a sprite that has a repeating texture
+
+Code Notes/Explanation:
+```js
+var randomX = Phaser.Math.Between(0, config.width);
+alien.x = randomX;
+```
+This creates a random value between zero and the width of the game and assigns to the alien X value position
+
+#### Part 5: Spritesheets
+
+Link to the video: [Part 5 Spritesheets](https://youtu.be/U0K0YTifb1w?si=qKh0OpInCnVqsoFM)
+
+Link to the Tinkering: https://github.com/nancyc0337/sep11-freedom-project/tree/main/tool/tinkering-3b
+
+What I made: when clicked, the aliens are destroyed => shows explosion
+
+Notes:
+* In order to make animations in Phaser, we need to use spritesheets
+* A "Spritesheet" is a collection of images in a single file separated by frames
+* Like in a movie cell, each frame has the same size as the previous one
+
+Code Notes/Explanation:
+![alt text](image-5.png)
+* `Repeat` tells me how many times it will loop
+ * infinite loops: use -1
+* if we want the animation to disappear, we'll want it to run once
+ * set the `Repeat` to 0 and set the `hideOnComplete` to true
 
 <!--
 * Links you used today (websites, videos, etc)
