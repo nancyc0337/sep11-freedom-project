@@ -13,13 +13,13 @@ For this year's Year-Long Freedom Project, I wanted to work with someone else (a
 
 ## Sources
 
-My first resource is from my IDE/Github, where I stored & tinkered with my tool (tool folder): https://github.com/nancyc0337/sep11-freedom-project/tree/main/tool.
+My first resource is from my IDE/Github, where I stored & tinkered with my tool (tool folder): [Link To My Tool Folder](https://github.com/nancyc0337/sep11-freedom-project/tree/main/tool).
 
-My second resource is from my IDE/Github, where I wrote down my progress of what I did with my tool: https://github.com/nancyc0337/sep11-freedom-project/blob/main/tool/learning-log.md.
+My second resource is from my IDE/Github, where I wrote down my progress of what I did with my tool: [Link To My Learning Log](https://github.com/nancyc0337/sep11-freedom-project/blob/main/tool/learning-log.md).
 
-My third resource is a website about Phaser: https://phaser.io/.
+My third resource is a website about Phaser: [Link To Phaser.io](https://phaser.io/).
 
-My fourth resource is a Phaser Tutorials playlist from Youtube that Mr. Mueller put in his document SEP11 Freedom Project Tool List: https://www.youtube.com/playlist?list%3DPLDyH9Tk5ZdFzEu_izyqgPFtHJJXkc79no.
+My fourth resource is a Phaser Tutorials playlist from Youtube that Mr. Mueller put in his document SEP11 Freedom Project Tool List: [Link To The Phaser Tutorials playlist from Youtube](https://www.youtube.com/playlist?list%3DPLDyH9Tk5ZdFzEu_izyqgPFtHJJXkc79no).
 
 ## Engineering Design Process
 
