@@ -139,6 +139,20 @@ Code Notes/Explanation:
 * if we want the animation to disappear, we'll want it to run once
  * set the `Repeat` to 0 and set the `hideOnComplete` to true
 
+##### Next Step
+I will learn [Part 6 Physics](https://youtu.be/cuSQnbZloFc?si=PxrHsAOctcY3Ao1L) and [Parallax Scrolling TileSprite](https://youtu.be/pknZUn82x2U?si=xEgYjkf8I-ND1ZMp).
+
+### 11/18/2024
+
+#### Part 6: Physics
+
+Link to the video: [Part 6 Physics](https://youtu.be/cuSQnbZloFc?si=PxrHsAOctcY3Ao1L)
+
+Link to the Tinkering: https://github.com/nancyc0337/sep11-freedom-project/tree/main/tool/tinkering-3b
+
+Video Notes:
+* physics engine is necessary for simulate gravity, velcity, collisions, etc
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
