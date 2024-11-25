@@ -58,9 +58,9 @@ Second Example:
 
 #### Part 3: Game Objects Images
 
-Link to the Video: https://youtu.be/l65rEEdgURA?si=1GlWWAUG16tk_4MT
+Link to the Video: [Part 3 Game Objects Images - Getting Started with Phaser 3](https://youtu.be/l65rEEdgURA?si=1GlWWAUG16tk_4MT)
 
-Link to the Tinkering: https://github.com/nancyc0337/sep11-freedom-project/tree/main/tool/tinkering-2a
+Link to the Tinkering: [The Code of Tinkering With Learning Log 2](https://github.com/nancyc0337/sep11-freedom-project/tree/main/tool/tinkering-2a)
 
 I tried to use a different image/background from the video.
 
