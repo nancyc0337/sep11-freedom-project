@@ -140,7 +140,7 @@ Code Notes/Explanation:
  * set the `Repeat` to 0 and set the `hideOnComplete` to true
 
 ##### Next Step
-I will learn [Part 6 Physics](https://youtu.be/cuSQnbZloFc?si=PxrHsAOctcY3Ao1L) and [Parallax Scrolling TileSprite](https://youtu.be/pknZUn82x2U?si=xEgYjkf8I-ND1ZMp).
+I will learn [Part 6 Physics](https://youtu.be/cuSQnbZloFc?si=PxrHsAOctcY3Ao1L).
 
 ### 11/18/2024
 
@@ -152,6 +152,58 @@ Link to the Tinkering: https://github.com/nancyc0337/sep11-freedom-project/tree/
 
 Video Notes:
 * physics engine is necessary for simulate gravity, velcity, collisions, etc
+
+Code Notes:
+
+```js
+physics: {
+    default: "arcade",
+    arcade:{
+        debug: false
+    }
+  }
+}
+```
+Explanation: enables game to support physics, debug to false
+
+```js
+start: 0,
+end: 1
+```
+```js
+start: 2,
+end: 3
+```
+Explanation: creates 2 game objects with the same sprite file
+
+![alt text](image-7.png)
+
+`setRandomPosition` creates random positions
+
+![alt text](image-8.png)
+
+```js
+if (Math.random() > 0.5) {
+    powerUp.play("red");
+} else {
+    powerUp.play("gray");
+}
+```
+Explanation: 50-50 chance to play either red or gray animations
+
+`powerUp.setCollideWorldBounds(true);` sets boundaries
+
+`powerUp.setBounce(1);` sets the sprite bounce like rubber balls
+* higher value = extra bounciness!
+
+What I tinkered with:
+
+The balls/spheres will bounce around, while the ships travels downward. We can also destroy the ships by clicking them.
+
+![alt text](image-6.png)
+
+##### Next Step
+I will learn [Parallax Scrolling TileSprite](https://youtu.be/pknZUn82x2U?si=xEgYjkf8I-ND1ZMp).
 
 <!--
 * Links you used today (websites, videos, etc)
