@@ -205,6 +205,18 @@ The balls/spheres will bounce around, while the ships travels downward. We can a
 ##### Next Step
 I will learn [Parallax Scrolling TileSprite](https://youtu.be/pknZUn82x2U?si=xEgYjkf8I-ND1ZMp).
 
+### 12/2/2024
+#### Parallax Scrolling
+
+Link to the video: [Parallax Scrolling](https://youtu.be/pknZUn82x2U?si=xEgYjkf8I-ND1ZMp).
+
+Link to the Tinkering: https://github.com/nancyc0337/sep11-freedom-project/tree/main/tool/tinkering-5a
+
+Video Notes:
+* Parallax Scrolling is a technique in computer graphics where background images move past the camera more slowly than forebackground images creating an illusion of depth in a 2D scene.
+![alt text](image-9.png)
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
