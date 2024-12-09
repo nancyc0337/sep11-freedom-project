@@ -1,7 +1,18 @@
 # Entry 2
-##### X/X/XX
+##### 12/9/2024
 
-Text
+## Content: Learning My Tool & Making My Freedom Project Goal For The Winter Break
+
+From November 4 to December 8, I have been learning my tool **Phaser**. I used this YouTube tutorial
+
+## Sources
+
+## Engineering Design Process
+
+## Skills
+
+## Summary
+In conclusion,
 
 [Previous](entry01.md) | [Next](entry03.md)
 
