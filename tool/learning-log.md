@@ -216,6 +216,49 @@ Video Notes:
 * Parallax Scrolling is a technique in computer graphics where background images move past the camera more slowly than forebackground images creating an illusion of depth in a 2D scene.
 ![alt text](image-9.png)
 
+Code Notes:
+
+1st step:
+* upload image & add it as tileSprite
+* define its width and height with the same dimensions as the game screen
+
+Example:
+
+`this.background = this.add.tileSprite(0, 0, game.config.width, game.config.height, "background");`
+
+The image will stretch & pattern is repeated across the screen.
+
+**Define the origion to the top-left corner of the image and fix its position to prevent it from moving**
+
+Example:
+
+```js
+this.background.setOrigin(0, 0);
+this.background.setScrollFactor(0);
+```
+
+2nd step:
+* add a player and a camera
+* tell camera to follow the player
+
+Code: `this.cameras.main.startFollow(this.player);`
+
+3rd step:
+* change the texture of the background proportionally to the position of the camera in the update
+* repeat for each layer that I want to add to the background
+
+Code: `this.background.tilePositionX = this.myCam.scrollX * .3;`
+
+Takeaway:
+* I accidentally put `this.background.tilePositionX = this.myCam.scrollX * .3;` in the create function. `this.background.tilePositionX = this.myCam.scrollX * .3;` supposed to be in the update function.
+
+Skill: Attention to detail & Debugging
+
+##### Next Step
+
+I will learn [Part 7 Keyboard Input](https://youtu.be/KQ2FhPKBOHI?si=50hpfLgESr1J4_AU).
+
+
 
 <!--
 * Links you used today (websites, videos, etc)
