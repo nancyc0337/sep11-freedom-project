@@ -19,7 +19,7 @@ My second resource is from my IDE/Github, where I wrote down my progress of what
 
 My third resource is a website about Phaser: [Link To Phaser.io](https://phaser.io/).
 
-My fourth resource is a Phaser Tutorials playlist from Youtube that Mr. Mueller put in his document SEP11 Freedom Project Tool List: [Link To The Phaser Tutorials playlist from Youtube](https://www.youtube.com/playlist?list%3DPLDyH9Tk5ZdFzEu_izyqgPFtHJJXkc79no).
+My fourth resource is a Phaser Tutorials playlist from Youtube that Mr. Mueller put in his document SEP11 Freedom Project Tool List: [Link To The Phaser Tutorials playlist from Youtube](https://www.youtube.com/playlist?list=PLDyH9Tk5ZdFzEu_izyqgPFtHJJXkc79no).
 
 ## Engineering Design Process
 
