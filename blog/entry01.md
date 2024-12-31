@@ -23,7 +23,7 @@ My fourth resource is a Phaser Tutorials playlist from Youtube that Mr. Mueller 
 
 ## Engineering Design Process
 
-Right now in the Engineering Design Process(EDP), I am on the 1st(Define the problem), 2nd(Research the problem), 3rd(Brainstorm possible solutions) and 4th step(Plan the most promising solution). Our 1st step was to decide ou what we would like to make for our Freedom Project. Then we decide on our groups, tool and backup tool. We tinker with the tool and confirm our tool. I think I'll be on 5th step(Create a prototype) to create our game.
+Right now in the Engineering Design Process(EDP), I am on the 1st(Define the problem), 2nd(Research the problem), 3rd(Brainstorm possible solutions) and 4th step(Plan the most promising solution). Our 1st step was to decide what we would like to make for our Freedom Project. Then we decide on our groups, tool and backup tool. We tinker with the tool and confirm our tool. I think I'll be on 5th step(Create a prototype) to create our game.
 
 ## Skills
 

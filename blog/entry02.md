@@ -188,7 +188,7 @@ My fourth resource is a Phaser Tutorials playlist from Youtube that Mr. Mueller 
 
 ## Engineering Design Process
 
-Right now in the Engineering Design Process(EDP), I am on the 5th step(Create a prototype). Currently, we are using many resources to learn our tool to make our project.
+Right now in the Engineering Design Process(EDP), I am on the 5th step(Create a prototype). Currently, we are using many resources to learn our tool to make our project. I think I'll be on 6th step(Test and evaluate the prototype), using what we learned about our tool to create our game.
 
 ## Skills
 
