@@ -258,7 +258,7 @@ Skill: Attention to detail & Debugging
 
 I will learn [Part 7 Keyboard Input](https://youtu.be/KQ2FhPKBOHI?si=50hpfLgESr1J4_AU).
 
-### 12/31/2024
+### 12/31/2024 & 1/1/2025
 
 #### Part 7 Keyboard Input
 
@@ -266,11 +266,26 @@ Link to the video: [Part 7 Keyboard Input](https://youtu.be/KQ2FhPKBOHI?si=L9USw
 
 Link to the Tinkering: https://github.com/nancyc0337/sep11-freedom-project/tree/main/tool/tinkering-7a
 
+Notes:
+
+![alt text](image-10.png)
+
+`this.background.tilePositionY -= 0.5;` moves the background on the y-axis in infinite loop
+
+![alt text](image-12.png)
+
 #### Part 8 Custom Classes
 
 Link to the video: [Part 8 Custom Classes](https://youtu.be/qs5xmT6Upsc?si=fP__B527A74ynSG1).
 
 Link to the Tinkering: https://github.com/nancyc0337/sep11-freedom-project/tree/main/tool/tinkering-7b
+
+Notes:
+
+![alt text](image-11.png)
+![alt text](image-13.png)
+* we can create an exact copy that we can customize
+* In this new class(custom classes), we can define specific methods and properties
 
 #### Part 9 Collisions
 
@@ -278,11 +293,22 @@ Link to the video: [Part 9 Collisions](https://youtu.be/hkedWHfU_oQ?si=O4smaZXWk
 
 Link to the Tinkering: https://github.com/nancyc0337/sep11-freedom-project/tree/main/tool/tinkering-7c
 
+Notes:
+![alt text](image-14.png)
+* Phaser can calculate when a object collides or overlaps with another
+
 #### Part 10 Score Label
 
 Link to the video: [Part 10 Score Label](https://youtu.be/a17P2A4Bgko?si=GogrMz9MofVEwiy8).
 
 Link to the Tinkering: https://github.com/nancyc0337/sep11-freedom-project/tree/main/tool/tinkering-7d
+
+Notes:
+Bitmap font = a spritesheet containing font symbols in a PNG file
+
+**Create own Bitmap font files with Littera**
+
+Littera Tutorial: https://www.joshmorony.com/adding-custom-fonts-to-your-phaser-game/
 
 #### Part 11 Feedback
 
@@ -290,11 +316,19 @@ Link to the video: [Part 11 Feedback](https://youtu.be/hJ91bkJPdH0?si=U3mfb4D0UW
 
 Link to the Tinkering: https://github.com/nancyc0337/sep11-freedom-project/tree/main/tool/tinkering-7e
 
+Notes:
+* Feedback means to notify the players that something actually happened in the game
+
 #### Part 12 Audio
 
 Link to the video: [Part 12 Audio](https://youtu.be/COncYQLGJS8?si=o9er2C1VTY_6Cqhx).
 
 Link to the Tinkering: https://github.com/nancyc0337/sep11-freedom-project/tree/main/tool/tinkering-7f
+
+Notes:
+* We can add sounds & music to our phaser game!
+* Phaser support MP3 and OGG audio files
+![alt text](image-15.png)
 
 <!--
 * Links you used today (websites, videos, etc)
