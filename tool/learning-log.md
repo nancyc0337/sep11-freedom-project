@@ -330,6 +330,16 @@ Notes:
 * Phaser support MP3 and OGG audio files
 ![alt text](image-15.png)
 
+### 1/6/2025
+
+#### Making Your First Phaser 3 Game in TypeScript - Part 1
+
+Link to the video: [Making Your First Phaser 3 Game in TypeScript - Part 1](https://youtu.be/tFkMxzHwmDw?si=aRZtqAOcTdVcufU6).
+
+Link to the Tinkering: https://github.com/nancyc0337/sep11-freedom-project/tree/main/tool/tinkering-8
+
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
