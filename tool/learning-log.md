@@ -330,15 +330,32 @@ Notes:
 * Phaser support MP3 and OGG audio files
 ![alt text](image-15.png)
 
-### 1/6/2025
+### 1/6/2025 & 1/12/2025
 
-#### Making Your First Phaser 3 Game in TypeScript - Part 1
+#### How To Make A PhaserJS Game! | Simple Tutorial
 
-Link to the video: [Making Your First Phaser 3 Game in TypeScript - Part 1](https://youtu.be/tFkMxzHwmDw?si=aRZtqAOcTdVcufU6).
+Link to the video: [How To Make A PhaserJS Game! | Simple Tutorial](https://youtu.be/88DS3Z8nOdY?si=5UAOESxUAQtBTp22).
 
 Link to the Tinkering: https://github.com/nancyc0337/sep11-freedom-project/tree/main/tool/tinkering-8
 
+Notes:
 
+**important functions: preload(){}, create(){}, update(){}**
+
+preload function have:
+* `load.image('', 'path to image')`
+* `load.spritesheet('', 'path to image')`
+
+create function have:
+* physics (gravity)
+* add sprites
+* game objects
+
+update function have:
+* makes the magic happen
+* physics
+* make alerts (alert("___"))
+* if else & for loops
 
 <!--
 * Links you used today (websites, videos, etc)
