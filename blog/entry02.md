@@ -1,4 +1,4 @@
-# Entry 2
+# Entry 2: Learning My Tool & Make Freedom Project Goal For The Winter Break
 ##### 12/9/2024
 
 ## Content: Learning My Tool & Making My Freedom Project Goal For The Winter Break
