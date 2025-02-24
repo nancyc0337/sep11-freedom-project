@@ -45,7 +45,9 @@ Link to the video: [Part 9 Collisions](https://youtu.be/hkedWHfU_oQ?si=O4smaZXWk
 Link to the Tinkering: https://github.com/nancyc0337/sep11-freedom-project/tree/main/tool/tinkering-7c
 
 Notes:
+
 ![alt text](image-14.png)
+
 * Phaser can calculate when a object collides or overlaps with another
 
 #### Part 10 Score Label
@@ -79,6 +81,7 @@ Link to the Tinkering: https://github.com/nancyc0337/sep11-freedom-project/tree/
 Notes:
 * We can add sounds & music to our phaser game!
 * Phaser support MP3 and OGG audio files
+
 ![alt text](image-15.png)
 
 ### 1/6/2025 & 1/12/2025
@@ -122,13 +125,50 @@ Right now in the Engineering Design Process(EDP), I am on the 5th step(Create a 
 
 ## Skills
 
-Debugging
+1) Debugging
 
-Problem decomposition: breaking a task down into smaller pieces.
+The 1st skill I learned during this process is **Debugging**.
+
+When coding with Phaser, details are very important, if there's any small errors, the result wouldn't appear or the whole thing would collapse. I also have to know where the specific code goes:
+
+For example:
+
+### 1/6/2025 & 1/12/2025
+
+#### How To Make A PhaserJS Game! | Simple Tutorial
+
+Link to the video: [How To Make A PhaserJS Game! | Simple Tutorial](https://youtu.be/88DS3Z8nOdY?si=5UAOESxUAQtBTp22).
+
+Link to the Tinkering: https://github.com/nancyc0337/sep11-freedom-project/tree/main/tool/tinkering-8
+
+Notes:
+
+**important functions: preload(){}, create(){}, update(){}**
+
+preload function have:
+* `load.image('', 'path to image')`
+* `load.spritesheet('', 'path to image')`
+
+create function have:
+* physics (gravity)
+* add sprites
+* game objects
+
+update function have:
+* makes the magic happen
+* physics
+* make alerts (alert("___"))
+* if else & for loops
+
+2) Problem decomposition & Organization
+
+The 2nd and 3rd skill I learned during this process is **Problem decomposition** & **Organization**.
+
+Over the break, I decided to finish the [tutorial playlist](https://www.youtube.com/playlist?list=PLDyH9Tk5ZdFzEu_izyqgPFtHJJXkc79no). So I had to break the task down into smaller pieces. I had to organize myself by watching the video, taking down notes in my [learning log](https://github.com/nancyc0337/sep11-freedom-project/blob/main/tool/learning-log.md) and tinkering with the code.
 
 ## Summary
 
-In conclusion, I'm planning to learn.
+In conclusion, I will use what I learned about Phaser to create a music and math game with Simran.
 
 [Previous](entry02.md) | [Next](entry04.md)
 
