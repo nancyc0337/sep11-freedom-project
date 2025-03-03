@@ -357,6 +357,44 @@ update function have:
 * make alerts (alert("___"))
 * if else & for loops
 
+### 2/24/2025 & 3/2/2025
+
+Link to our Music & Math game (Harmony Quest): [The Code to our game: Harmony Quest](https://github.com/simrans4258/music-game)
+
+#### MVP (2nd week of making our game)
+
+I added lots of scenes for the game:
+
+* `class StartScene extends Phaser.Scene {}`
+* `class InstructionScene extends Phaser.Scene {}`
+* `class HomeScene extends Phaser.Scene {}`
+* `class Level1 extends Phaser.Scene {}`
+* `class Level2 extends Phaser.Scene {}`
+* `class Level3 extends Phaser.Scene {}`
+* `class Level4 extends Phaser.Scene {}`
+* `class Level5 extends Phaser.Scene {}`
+
+I added texts:
+
+* `this.add.text(200, 100, "Game Instructions", { fontSize: "24px", fill: "black" });`
+* `this.add.text(200, 100, "Use arrow keys to move \n Use SPACE bar to jump \n Match your commands to the \n beat of the music \n Solve math problems \n to avoid obstacles \n If you miss a beat/obstacle, \n it is game over \n Get through all the obstacles and \n match the beats to win the game!", { fontSize: "24px", fill: "black" });`
+* `this.add.text(220, 200, "Start", { fontSize: "32px", fill: "black" })`
+* `this.add.text(150, 50, "Select a Level", { fontSize: "24px", fill: "black" });`
+* `this.add.text(200, 150 + index * 50, level, { fontSize: "32px", fill: "black" })`
+* `this.add.text(200, 300, "Back to Home", { fontSize: "24px", fill: "black" })`
+* `this.add.text(200, 100, "Welcome to Level 1", { fontSize: "24px", fill: "black" });`
+* `this.add.text(200, 100, "Welcome to Level 2", { fontSize: "24px", fill: "black" });`
+* `this.add.text(200, 100, "Welcome to Level 3", { fontSize: "24px", fill: "black" });`
+* `this.add.text(200, 100, "Welcome to Level 4", { fontSize: "24px", fill: "black" });`
+* `this.add.text(200, 100, "Welcome to Level 5", { fontSize: "24px", fill: "black" });`
+
+
+
+
+
+
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
