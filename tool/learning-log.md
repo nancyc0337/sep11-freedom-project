@@ -2,7 +2,7 @@
 
 ## Tool: **Phaser**
 
-## Project: **X**
+## Project: **Harmony Quest**
 
 ### 10/20/2024: Setting Up & Scenes
 
@@ -388,9 +388,23 @@ I added texts:
 * `this.add.text(200, 100, "Welcome to Level 4", { fontSize: "24px", fill: "black" });`
 * `this.add.text(200, 100, "Welcome to Level 5", { fontSize: "24px", fill: "black" });`
 
+### 3/9/2025
 
+Link to our Music & Math game (Harmony Quest): [The Code to our game: Harmony Quest](https://github.com/simrans4258/music-game)
 
+#### MVP (3rd week of making our game)
 
+I changed & added new pictures of the buttons for the starting scene and instructions scene:
+![alt text](playbutton.png)
+![alt text](start.jpg)
+![alt text](image-18.png)
+
+For the instructions, I changed the fonts and positioning for the instructions so the player can read them clearly and the words will have no overlap.
+![alt text](image-16.png)
+![alt text](image-17.png)
+
+Next Step:
+* We will start coding for each level
 
 
 
