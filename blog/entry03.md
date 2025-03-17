@@ -160,9 +160,9 @@ update function have:
 * make alerts (alert("___"))
 * if else & for loops
 
-2) Problem decomposition & Organization
+2) Problem Decomposition & Organization
 
-The 2nd and 3rd skill I learned during this process is **Problem decomposition** & **Organization**.
+The 2nd and 3rd skill I learned during this process is **Problem Decomposition** & **Organization**.
 
 Over the break, I decided to finish the [tutorial playlist](https://www.youtube.com/playlist?list=PLDyH9Tk5ZdFzEu_izyqgPFtHJJXkc79no). So I had to break the task down into smaller pieces. I had to organize myself by watching the video, taking down notes in my [learning log](https://github.com/nancyc0337/sep11-freedom-project/blob/main/tool/learning-log.md) and tinkering with the code.
 
