@@ -1,4 +1,4 @@
-# Entry 4: Our Math & Music Game (MVP)
+# Entry 4: Our Math & Music Game → Harmony Quest! (MVP)
 ##### 3/10/2025
 
 ## Content: Creating Our Game (MVP)
