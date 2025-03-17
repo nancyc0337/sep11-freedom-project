@@ -76,13 +76,19 @@ Right now in the Engineering Design Process(EDP), I am on the 5th step(Create a 
 
 1) Collaboration & Communication
 
-While making our [project/game](https://github.com/simrans4258/music-game/tree/main), I have to communicate and collaborate with Simran. Since Simran has 3rd period SEP, I have 4th period SEP and we barely see each other in other classes, we used Discord and Slack to communicate and collaborate with each other. In Discord & SLack, we told each other of what we are going to do, when to git pull and git push the changes each other made, etc. 
+The 1st and 2nd skill I learned during this process is **Collaboration & Communication**.
+
+While making our [project/game](https://github.com/simrans4258/music-game/tree/main), I have to communicate and collaborate with Simran. Since Simran has 3rd period SEP, I have 4th period SEP and we barely see each other in other classes, we used Discord and Slack to communicate and collaborate with each other. In Discord & SLack, we told each other of what we are going to do, when to git pull and git push the changes each other made, etc.
 
 2) Attention to detail & Debugging
+
+The 3rd and 4th skill I learned during this process is **Attention to detail & Debugging**.
 
 When coding with Phaser, details are very important, if there's any small errors, the result wouldn't appear or the whole thing would collapse. I also have to know where the specific code goes.
 
 3) Time Management & Problem Decomposition
+
+The 5th and 6th skill I learned during this process is **Time Management & Problem Decomposition**.
 
 We used the [MVP Plan](https://github.com/nancyc0337/sep11-freedom-project/blob/main/prep/plan.md) to keep track of our time and tasks. We break the problem(creating the game) into smaller chunks/tasks.
 

@@ -194,9 +194,13 @@ Right now in the Engineering Design Process(EDP), I am on the 5th step(Create a 
 
 1) Time management
 
+The 1st skill I learned during this process is **Time management**.
+
 From November 4 to December 8, I have been learning my tool **Phaser** with this [YouTube Tutorial](https://www.youtube.com/playlist?list%3DPLDyH9Tk5ZdFzEu_izyqgPFtHJJXkc79no). Each week, I watch one to two videos, taking notes and tinkered in my [learning log](https://github.com/nancyc0337/sep11-freedom-project/blob/main/tool/learning-log.md).
 
 2) Attention to detail & Debugging
+
+The 2nd and 3rd skill I learned during this process is **Attention to detail & Debugging**.
 
 When coding with Phaser, details are very important, if there's any small errors, the result wouldn't appear or the whole thing would collapse.
 
