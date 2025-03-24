@@ -406,8 +406,21 @@ For the instructions, I changed the fonts and positioning for the instructions s
 Next Step:
 * We will start coding for each level
 
+### 3/23/2025
 
+Link to our Music & Math game (Harmony Quest): [The Code to our game: Harmony Quest](https://github.com/simrans4258/music-game)
 
+#### MVP (4th week of making our game)
+
+I added a Credits Scene.
+![alt text](image-19.png)
+
+I added a scene where the player can choose a character for the level during the game.
+![alt text](image-20.png)
+
+I also added images for buttons to jump to each scenes.
+![alt text](home.png)
+![alt text](instructionsbutton.png)
 
 <!--
 * Links you used today (websites, videos, etc)
