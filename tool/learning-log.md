@@ -422,6 +422,20 @@ I also added images for buttons to jump to each scenes.
 ![alt text](home.png)
 ![alt text](instructionsbutton.png)
 
+### 3/31/2025
+
+Link to our Music & Math game (Harmony Quest): [The Code to our game: Harmony Quest](https://github.com/simrans4258/music-game)
+
+#### MVP (5th week of making our game)
+
+I tried to create the code where I click one of the animals in 'Choose Your Characters Scene' and a green outline with highlight the animal that I choose for the game. But currently doesn't work right now. I'll continue to figure out the problem.
+![alt text](image-20.png)
+
+Next Steps:
+* I will figure out the problem in 'Choose Your Characters Scene'
+* I will make the code for the levels
+* I will add audios with the songs from Simran
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
