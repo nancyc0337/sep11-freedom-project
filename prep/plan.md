@@ -10,32 +10,32 @@
 #### MVP
 
 (February 15-23)-(break)
-- [] start off coding with a welcome screen/alert of some sorts using javascript
-  - [] code the alert signal to welcome user (Simran)
-  - [] write out the instructions for the game on the screen (Nancy)
-- [] make a button that leads to actual game, and the game shows up for the user to play (Simran)
-- [] input backgrounds/sprites/images into the game (Nancy)
+- [x] start off coding with a welcome screen/alert of some sorts using javascript
+  - [x] code the alert signal to welcome user (Simran)
+  - [x] write out the instructions for the game on the screen (Nancy)
+- [x] make a button that leads to actual game, and the game shows up for the user to play (Simran)
+- [x] input backgrounds/sprites/images into the game (Nancy)
 
 (February 24-March 9)
-- [] making javascript commands for buttons (Nancy)
-- [] figuring out how to correlate the audio with the buttons (Nancy & Simran)
+- [x] making javascript commands for buttons (Nancy)
+- [x] figuring out how to correlate the audio with the buttons (Nancy & Simran)
 
 (March 10-23)
-- [] create math questions (obstacles for the game), if the answer is correct, obstacle is removed (Nancy & Simran)
-- [] when user misses a certain amount of beats, game over (Simran)
+- [x] create math questions (obstacles for the game), if the answer is correct, obstacle is removed (Nancy & Simran)
+- [x] when user misses a certain amount of beats, game over (Simran)
 
 (March 24-31)
-- [] give an alert to the player that "game is over" and make a button to back home to play again (Nancy & Simran)
+- [x] give an alert to the player that "game is over" and make a button to back home to play again (Nancy & Simran)
 
 #### Beyond MVP
 
 (April 1-12)
-- [] make the game 3D (Nancy & Simran)
-- [] draw out sprites/backgrounds if we have enough time (Nancy & Simran)
+- [x] make the game 3D (Nancy & Simran)
+- [x] draw out sprites/backgrounds if we have enough time (Nancy & Simran)
 
 (April 13-20)
-- [] check through any bugs in code (Nancy & Simran)
-- [] finish up any codes (Nancy & Simran)
+- [x] check through any bugs in code (Nancy & Simran)
+- [x] finish up any codes (Nancy & Simran)
 
 <!-- EXAMPLE
 
