@@ -16,8 +16,8 @@ For my project, I chose to independently study **Phaser** in order to help me ma
 
 ## Implications
 ##### PROS
-* Harmony Quest will award the **player** the music at the end of the level = prize (social)
-* Harmony Quest provides math questions for the **player** to solve
+* Harmony Quest will award the **player** the music at the end of the level = prize 
+* Harmony Quest provides math questions for the **player** to solve, improving their math skills
 * Harmony Quest can give whoever that likes math & music **entertainment**
 
 ##### CONS
